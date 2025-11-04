@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Maaz Khan!
 
-### 🚀 Full Stack Developer | 3 Years Experience | UI/UX Focused
+### 🚀 Full Stack Developer | Almost 4 Years Experience | UI/UX Focused
 
-A passionate Full Stack Developer based in **Islamabad**, specializing in creating large-scale, efficient, and user-centric web applications. I bring almost **3 years** of experience in the complete Software Development Life Cycle (SDLC) and thrive on using modern technologies to solve complex problems.
+A passionate Full Stack Developer based in **Islamabad**, specializing in creating large-scale, efficient, and user-centric web applications. I bring almost **4 years** of solid experience in the complete Software Development Life Cycle (SDLC) and thrive on using modern technologies to solve complex problems.
 
 ---
 
@@ -26,7 +26,7 @@ My experience is focused on developing and revamping robust web applications, wo
 * **Full Stack Expertise:** Experienced in end-to-end development, from efficient design and developing User Interaction screens to robust backend logic and database management.
 * **SPA Development:** Successfully used **Angular** and **React** to create **Single Page Applications (SPAs)**, focusing on data binding, synchronization, and optimal performance.
 * **MEAN Stack Proficiency:** Gained hands-on experience developing blazing-fast SPAs using the **MEAN (MongoDB, Express.js, React, Node.js)** stack.
-* **Quality Assurance:** Actively involved in troubleshooting, fixing reported bugs/defects, and ensuring **cross-platform compatibility** and responsiveness across multiple browsers.
+* **Quality Assurance & SDLC:** Actively involved in all stages of the **SDLC**, including troubleshooting, fixing reported bugs/defects, and ensuring **cross-platform compatibility** and responsiveness across multiple browsers.
 
 ---
 
